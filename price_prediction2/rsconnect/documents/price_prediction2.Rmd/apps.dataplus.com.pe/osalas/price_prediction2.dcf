@@ -1,0 +1,12 @@
+name: price_prediction2
+title: price_prediction2
+username: osalas
+account: osalas
+server: apps.dataplus.com.pe
+hostUrl: https://apps.dataplus.com.pe/__api__
+appId: 3
+bundleId: 3
+url: https://apps.dataplus.com.pe:443/content/3/
+when: 1600389751.3884
+asMultiple: FALSE
+asStatic: FALSE

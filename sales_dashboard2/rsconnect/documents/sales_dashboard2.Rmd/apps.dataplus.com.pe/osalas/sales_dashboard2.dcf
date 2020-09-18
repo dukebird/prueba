@@ -1,0 +1,12 @@
+name: sales_dashboard2
+title: sales_dashboard2
+username: osalas
+account: osalas
+server: apps.dataplus.com.pe
+hostUrl: https://apps.dataplus.com.pe/__api__
+appId: 2
+bundleId: 4
+url: https://apps.dataplus.com.pe:443/content/2/
+when: 1600395616.90645
+asMultiple: FALSE
+asStatic: FALSE
